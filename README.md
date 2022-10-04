@@ -5,7 +5,7 @@
 
 🎓 Graduando em Interdisciplinar em Ciência e Tecnologia na Universidade Federal de Alfenas /n com pretensão de seguir para Engenharia de Software na Universidade Federal de Lavras como opção de segundo ciclo de graduação.
 
-🔭 Experiente em criações de bots ultilizando Python.
+🔭 Experiência com Python, C e Prolog.
 
 
 # 🚀 Minhas Skills

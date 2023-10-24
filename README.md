@@ -11,7 +11,7 @@
 # 🚀 Minhas Skills
 
   <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" alt="Python"/></code>
-  <code><img height="32" src="https://en.wikipedia.org/wiki/File:Java_programming_language_logo.svg" alt="Java"/></code>
+  <code><img height="32" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/121px-Java_programming_language_logo.svg.png" alt="Java"/></code>
   <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="C"/></code>
   <code><img height="32" src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2020/04/Prolog-logo-512.png" alt="Prolog"/></code>
   <code><img height="32" src="https://pipedream.com/s.v0/app_1YMhwo/logo/orig" alt="MySQL"/></code>
